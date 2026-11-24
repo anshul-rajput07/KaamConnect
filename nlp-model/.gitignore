@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+datasets/
+datasets_raw/
+datasets_raw.zip
+kaamconnect_nlp_output/
+kaamconnect_nlp_integration_pipeline/
+
+dataset/
+kaamconnect_nlp_integration_pipeline.zip
